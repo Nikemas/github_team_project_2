@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yellow{
+    width: 187px;
+    height: 187px;
+    background: #BCA634;
+    border-radius: 93.5px;
+}
+
+.yellow_eyes{
+    display: flex;
+    padding:  54px 0 0 37px;
+}
+.yellow_eye_1{
+    width: 37px;
+    height: 39px;
+    background: #BCA634;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+}
+.yellow_eye_2{
+    width: 37px;
+    height: 39px;
+    background: #BCA634;
+    border-radius: 93.5px;
+    margin: 0 0 0 31px;
+}
+.yellow_nose{
+    width: 23px;
+    height: 23px;
+    margin: 0 0 0 106px;
+    background: #BCA634;
+    border-radius: 93.5px;
+}
+.yellow_mouth{
+    width: 114px;
+    height: 35px;
+    margin: 10px 0 0 62px;
+    background: #BCA634;
+    border-radius: 0px 0px 125px 125px;
+}
+
+
+
+
