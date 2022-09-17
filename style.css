@@ -51,12 +51,12 @@ body{
     box-sizing: border-box;
 }
 
-/*.red{*/
-/*    width: 187px;*/
-/*    height: 187px;*/
-/*    background: #BE3333;*/
-/*    border-radius: 93.5px;*/
-/*}*/
+.red{
+    width: 187px;
+    height: 187px;
+    background: #BE3333;
+    border-radius: 93.5px;
+}
 
 .eyes__red{
     display: flex;
