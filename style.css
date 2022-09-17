@@ -1,3 +1,45 @@
+<<<<<<< HEAD
 body{
 
 }
+=======
+.green{
+    width: 187px;
+    height: 187px;
+
+    background: #10BD17;
+    border-radius: 93.3px;
+
+
+}
+.nose_green{
+    width: 23px;
+    height: 23px;
+
+    background: #10BD17;
+    border-radius: 93.3px;
+
+}
+.eyes1_green{
+    width: 37px;
+    height: 39px;
+
+    background: #10BD17;
+    border-radius: 93.5px;
+}
+.eyes_green{
+    width: 37px;
+    height: 39px;
+
+    background: #10BD17;
+    border-radius: 93.3px;
+}
+.mouth_green{
+    width: 114px;
+    height: 35px;
+
+    background: #10BD17;
+    border-radius: 0px 0px 125px 125px;
+
+}
+>>>>>>> 00456ac54c9d4372aa639c499b10e2e725099aaf
